@@ -88,6 +88,11 @@ body{
     position:relative;
 }
 
+#projects a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
 #projects h1{
    color:whitesmoke;
    margin-left: 4%;
